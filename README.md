@@ -139,9 +139,7 @@ QuickRide is a feature-rich project built using modern web technologies. It repl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/asif-khan-2k19/QuickRide.git
-cd QuickRide
-```
+
 
 ### 2. Install Dependencies
 
