@@ -9,8 +9,6 @@ QuickRide is a feature-rich project built using modern web technologies. It repl
 
 ---
 
-⭐ **If you found this project helpful or interesting, please consider giving it a star on [GitHub](https://github.com/asif-khan-2k19/QuickRide)! It helps others discover the project and keeps me motivated to improve it.** ⭐
-
 ---
 
 ## 📚 Table of Contents
