@@ -224,10 +224,7 @@ We welcome community contributions! To contribute:
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Ready to contribute? Let’s build something amazing together.**
+
